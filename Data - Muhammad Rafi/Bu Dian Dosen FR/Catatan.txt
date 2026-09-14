@@ -1,0 +1,2 @@
+- Sebelumnya sudah dilakukan uji hasil tetapi data tidak valid
+- Data Blok Merah -> Tidak Dipakai
